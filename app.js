@@ -1,4 +1,4 @@
-import "dotenv/config";
+import "dotenv/config.js";
 import express from "express";
 import Lab5 from "./lab5.js";
 import CourseRoutes from "./courses/routes.js";
